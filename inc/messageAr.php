@@ -1,0 +1,28 @@
+<?php
+$message = [
+    "blog" => "مدونة",
+    "All Posts" => "جميع المنشورات",
+    "Add New Post" => "إضافة منشور جديد",
+    "Login" => "تسجيل دخول",
+    "Logout" => "تسجيل خروج",
+    "Latest Posts" => "أحدث المنشورات",
+    "view" => "عرض",
+    "Next" => "التالية",
+    "Previous" => "السابقة",
+    "page" => "صفحة",
+    "new post"=>"منشور جديد",
+    "add new personal post"=>"إضافة منشور شخصي جديد",
+    "Title" => "العنوان",
+    "Body" => "الموضوع",
+    "Image" =>  "صورة",
+    "Submit" => "إضافة",
+    "Update" => "تحديث",
+    "view post" => "عرض المنشور",
+    "view personal post" => "عرض منشور شخصي",
+    "Our Background" => "صورة الخلفية",
+    "delete post" => "حذف المنشور",
+    "Author" => "الناشر",
+    "edit post" => "تعديل المنشور",
+    "edit your personal post" =>"تعديل منشور شخصي",
+    "dir" => "rtl"
+];

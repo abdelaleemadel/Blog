@@ -1,0 +1,30 @@
+<?php
+$message = [
+    "blog" => "blog",
+    "All Posts" => "All Posts",
+    "Add New Post" => "Add New Post",
+    "Login" => "Login",
+    "Logout" => "Logout",
+    "Latest Posts" => "Latest Posts",
+    "view" => "view",
+    "Next" => "Next",
+    "Previous" => "Previous",
+    "page" => "page",
+    "new post"=>"new post",
+    "add new personal post"=>"add new personal post",
+    "Title" => "Title",
+    "Body" => "Body",
+    "Image" =>  "Image",
+    "Submit" => "Submit",
+    "Update" => "Update",
+    "view post" => "view post",
+    "view personal post" => "view personal post",
+    "Our Background" => "Our Background",
+    "delete post" => "delete post",
+    "Author" => "Author",
+    "edit your personal post" => "edit your personal post",
+    "edit post" => "edit post",
+    "Our Background" => "Our Background",
+    "dir" => "ltr"
+
+];
