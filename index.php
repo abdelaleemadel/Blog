@@ -79,11 +79,11 @@ if (!empty($posts)):
             <div class="product-item text-start">
               <a href="#"><img src="uploads/<?php echo $post['image'] ?>" alt=""></a>
               <div class="down-content">
-                <a href="#" class="text-end">
-                  <h4><?php echo $post['title'] ?></h4>
+                <a href="#" class="text-start" >
+                  <h4 class="mb-0"><?php echo $post['title'] ?></h4>
                 </a>
-                <h6><?php echo $post['created_at'] ?></h6>
-                <p> <?php echo $post['body'] ?>...</p>
+                 <h5  class=" h6 text-end"><?php echo $post['created_at'] ?></h5>
+            <p> <?php echo $post['body'] ?>...</p>
                 <div class="d-flex justify-content-end">
                   <a href="viewPost.php?id=<?php echo  $post['id'] ?>" class="btn btn-info "><?php echo $message['view'] ?> </a>
                 </div>
